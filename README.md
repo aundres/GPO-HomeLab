@@ -19,11 +19,9 @@ Designed and implemented a Group Policy Object (GPO) infrastructure within an Ac
 ## Steps to creating a Password policy
 ### 1. Opened Group Policy Management Console
 <img width="1009" height="723" alt="gpmc-overview" src="https://github.com/user-attachments/assets/7197145e-3fb2-47c0-b05a-64930543bb36" />
-Brief sentence on what you did.
 
 ### 2. Created a New GPO
 <img width="1222" height="795" alt="create-gpo" src="https://github.com/user-attachments/assets/27114096-6af3-43ff-a384-884474b1347c" />
-...and so on for each step
 
 ### 3. Named the GPO
 <img width="382" height="174" alt="gpo-named" src="https://github.com/user-attachments/assets/e2c34a8b-d7ee-48aa-be1d-cc6f3784d5de" />
