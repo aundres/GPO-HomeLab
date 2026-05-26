@@ -33,6 +33,4 @@ Designed and implemented a Group Policy Object (GPO) infrastructure within an Ac
 <img width="1107" height="726" alt="policy-verified" src="https://github.com/user-attachments/assets/236ebaba-01d8-422d-a839-bd40b9b3986c" />
 
 
-## What I Learned
-
 
