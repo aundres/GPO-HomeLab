@@ -35,10 +35,6 @@ Brief sentence on what you did.
 <img width="1107" height="726" alt="policy-verified" src="https://github.com/user-attachments/assets/236ebaba-01d8-422d-a839-bd40b9b3986c" />
 
 
-## Key Commands
-- gpupdate /force
-- gpresult /r
-
 ## What I Learned
-2-3 sentences on what this lab taught you
+
 
